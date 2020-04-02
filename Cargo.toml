@@ -21,7 +21,7 @@ shardio = "0.5"
 pretty_assertions = "0.5.1"
 boomphf = "0.5"
 dashmap = "1.2"
-bincode = "1.2"
+bincode = "1.1.4"
 pretty_env_logger = "0.3"
 
 [dependencies.smallvec]
