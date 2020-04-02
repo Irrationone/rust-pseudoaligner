@@ -6,7 +6,7 @@ authors = ["Avi Srivastava <avi.srivastava@10xgenomics.com>", "Patrick Marks <pa
 [dependencies]
 bio = "0.22"
 crossbeam = "0.4"
-debruijn = { git = "https://github.com/10XGenomics/rust-debruijn" }
+debruijn = { git = "https://github.com/10XGenomics/rust-debruijn", rev = "3df0997534e6b40f7e6cda92582f2a5eca209ad3" }
 docopt = "1.0"
 failure = "0.1"
 flate2 = "1.0"
